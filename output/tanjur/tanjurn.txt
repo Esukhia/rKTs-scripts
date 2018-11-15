@@ -2298,7 +2298,7 @@
 2288	N4299	rgyud 'grel, du 143a2-143b4. (ff.143r-143v (pp.287-288))	lhag par dbang du byed pa'i 'jam dpal gyi sgrub thabs	
 2003	N4300	rgyud 'grel, du 143b4-144a2. (ff.143v-144r (pp.288-289))	'jam dpal gyi sgrub thabs	
 2290	N4301	rgyud 'grel, du 144a2-144a5. (ff.144r-144r (pp.289-289))	rig pa 'dzin pa'i sde snod las 'byung ba bsdus pa'i 'jam dpal gyi sgrub thabs	
-229o	N4302	rgyud 'grel, du 144a5-144b1. (ff.144r-144b (pp.289-290))	rig pa 'dzin pa'i sde snod las byung ba bsdus pa'i 'jam dpal gyi sgrub thabs	
+2291	N4302	rgyud 'grel, du 144a5-144b1. (ff.144r-144b (pp.289-290))	rig pa 'dzin pa'i sde snod las byung ba bsdus pa'i 'jam dpal gyi sgrub thabs
 2292	N4303	rgyud 'grel, du 144b1-144b7. (ff.144v-144v (pp.290-290))	rig pa 'dzin pa'i sde snod so so nas bsdus pa'i 'jam pa'i dbyangs kyi sgrub thabs	
 2293	N4304	rgyud 'grel, du 144b7-145a5. (ff.144v-145r (pp.290-291))	shes rab 'phel ba'i cho ga	
 2294	N4305	rgyud 'grel, du 145a5-146b4. (ff.145r-146v (pp.291-294))	mtshan yang dag par brjod pa'i man ngag shes rab 'khor lo'i dngos grub mchog thob pa'i sgrub thabs	
